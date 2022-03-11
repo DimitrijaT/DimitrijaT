@@ -1,7 +1,7 @@
 #### 👋 Hello
 
 - Discord: DT#6355
-- Twitter: [@Dimitri71475787](https://twitter.com/Dimitri71475787)
+- Twitter: [@DTimeski](https://twitter.com/DTimeski)
 - Instagram: dimitrijatimeski
 
 <!---
