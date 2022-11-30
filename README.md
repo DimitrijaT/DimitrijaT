@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java Spring**
 
-- 👨‍💻 All of my projects are available at [https://dimitrijat.github.io/PersonalWebsite/en/aboutMe_en.html](https://dimitrijat.github.io/PersonalWebsite/en/aboutMe_en.html)
+<!-- - 👨‍💻 All of my projects are available at [https://dimitrijat.github.io/PersonalWebsite/en/aboutMe_en.html](https://dimitrijat.github.io/PersonalWebsite/en/aboutMe_en.html) -->
 
 - 📫 How to reach me **dimitrijatimeskidimitrija@gmail.com**
 
