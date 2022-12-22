@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dimitrija</h1>
+<h1 align="center">I'm Dimitrija</h1>
 <h3 align="center">Backend developer from Macedonia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimitrijat&label=Profile%20views&color=0e75b6&style=flat" alt="dimitrijat" /> </p>
