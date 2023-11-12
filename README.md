@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **being a student.**
 
-- 🌱 I’m currently learning **Java Spring**, **.NET Core** and **Django**
+- 🌱 I’m currently learning **Android**, **Kotlin**, **Flutter** and **Dart**
 
 - 📫 How to reach me **dimitrijatimeskidimitrija@gmail.com**
 
