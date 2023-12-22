@@ -1,5 +1,5 @@
 <h1 align="center">Dimitrija Timeski</h1>
-<h3 align="center">Backend developer from Macedonia</h3>
+<h3 align="center">A Developer :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimitrijat&label=Profile%20views&color=0e75b6&style=flat" alt="dimitrijat" /> </p>
 
